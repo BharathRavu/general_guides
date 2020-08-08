@@ -9,6 +9,7 @@
 4. Make changes as shown in the below referenced video
 5. To run: ./hugo server
 6. To create html and css public files: ./hugo -D
+7. Reference video: https://www.youtube.com/watch?v=mEZ1Hj5yQ-8&list=LLUBHsYKKuOKb09EZE-AOKIA&index=4&t=1012s
 
 ### Making 'mathjax' work in hugo static site
 
