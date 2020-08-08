@@ -7,7 +7,8 @@
 4. Make changes as shown in the below referenced video
 5. To run: ./hugo server
 6. add the following line to 'config.toml' file
-```canonifyURLs = true
+```
+canonifyURLs = true
 ```
 7. To create html and css public files: ./hugo -D
 8. Reference video: https://www.youtube.com/watch?v=mEZ1Hj5yQ-8&list=LLUBHsYKKuOKb09EZE-AOKIA&index=4&t=1012s
