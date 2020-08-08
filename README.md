@@ -1,6 +1,4 @@
-# General Guides
-
-## hugo static site
+# hugo static site
 
 ### Making a static site with hugo
 1. Download hugo.exe file 
