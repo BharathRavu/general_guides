@@ -1,6 +1,16 @@
 # General Guides
 
-## Making 'mathjax' work in hugo static site
+## hugo static site
+
+### Making a static site with hugo
+1. Download hugo.exe file 
+2. Dowload a theme from gohugo.io
+3. Open poweshell in windows
+4. Make changes as shown in the below referenced video
+5. To run: ./hugo server
+6. To create html and css public files: ./hugo -D
+
+### Making 'mathjax' work in hugo static site
 
 1. Create a file in hugo theme directory layouts/partials/mathjax_support.html as the following
 ```
