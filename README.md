@@ -44,3 +44,5 @@ https://geoffruddock.com/math-typesetting-in-hugo/
 http://docs.mathjax.org/en/latest/input/tex/eqnumbers.html
 ```
   
+## General stuff
+When data has outliers, it would effect the model's prediction abilility. May be try removing them
